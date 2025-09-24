@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Walinson
 
-🎓 Student of **Systems Analysis and Development** at **FATEC**
+🎓 Student of **Systems Analysis and Development** at **FATEC**<br>
 💻 Enthusiastic about technology, software engineering, and continuous learning  
 🔍 Interested in backend development, databases, and cloud technologies  
 
